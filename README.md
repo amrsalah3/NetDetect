@@ -15,7 +15,7 @@ allprojects {
   
 2. Add the dependency:
 ```
-implementation 'com.github.SalahoAmro:NetDetect:Tag'
+implementation 'com.github.SalahoAmro:NetDetect:1.0.0'
 ```
 
 3. Initialize NetDetect in Application class:
