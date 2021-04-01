@@ -1,0 +1,4 @@
+include ':app:netdetectsample'
+include ':netdetect'
+include ':app'
+rootProject.name = "NetDetect"
